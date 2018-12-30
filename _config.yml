@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: jaclyn zetta cohen
 
-description: FALSE
+description_incl: FALSE
 show_drafts: FALSE
 unpublished: FALSE
 is_user_page: FALSE
