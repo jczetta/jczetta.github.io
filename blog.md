@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Blog
+title: Posts
 ---
+
+----
+
 <h1>Posts & Articles</h1>
 {{ site.posts }}
 <ul>
