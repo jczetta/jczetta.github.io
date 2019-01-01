@@ -19,6 +19,7 @@
 
 * [Troubleshooting & Self-Regulation for Student Success draft](https://docs.google.com/document/d/1HJSOtoy-YlhsitDClAxxOCPTOS08rIlUEsEgDwTPTGI/edit?usp=sharing) - Fall 2018
 
+* [UMSI Technical Workshop curriculum report (2017-2018)](tba.net)
 
 ## Available publications & presentations
 
