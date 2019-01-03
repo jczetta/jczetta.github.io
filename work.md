@@ -28,4 +28,4 @@
 * **TO COME** - *Creating a Roadmap for Successful Student Troubleshooting and Self-Regulation in
 Introductory Programming Courses* - Colleen Van Lent & Jaclyn Zetta Cohen, SIGCSE 2019 Birds of a Feather submission
 
-* [A Framework to Integrate Public, Dynamic Metrics Into an OER Platform](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/106587/CohenOmolloMalicke-MetricsFramework-OpenPraxis.pdf?sequence=1), published in *Open Praxis* 2014 & [accompanying presentation](http://videolectures.net/ocwc2014_cohen_oer_platform/) in Ljubljana, Slovenia a OCWC Global 2014
+* [A Framework to Integrate Public, Dynamic Metrics Into an OER Platform](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/106587/CohenOmolloMalicke-MetricsFramework-OpenPraxis.pdf?sequence=1) - J. Cohen, K.L. Omollo, D. Malicke, published in *Open Praxis* 2014 & [accompanying presentation](http://videolectures.net/ocwc2014_cohen_oer_platform/) in Ljubljana, Slovenia at OCWC Global 2014
