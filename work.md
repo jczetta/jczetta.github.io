@@ -3,13 +3,11 @@ d----
 
 ## Projects
 
-*(Links in progress)*
-
 * [Curriculum site for WitNY Summer Guild 2018](https://witny-summer-guild-2018.github.io/)
 
-* [My personal interactive programming textbook site](tba.net) - built with [Runestone Components](https://github.com/runestoneinteractive/runestonecomponents)
+* [My personal interactive programming textbook site](tba.net) **Undergoing updates for Winter 2019** - built with [Runestone Components](https://github.com/runestoneinteractive/runestonecomponents)
 
-* [Fall 2018 - Lab Website, Intensive Intro. Programming for Information Students](https://si508-f18.github.io/) - updates TBA (*some material is still course-restricted and undergoing cleanup for public access*)
+* [Fall 2018 - Lab Website, Intensive Intro. Programming for Information Students](https://si508-f18.github.io/) - (*some material is still course-restricted and undergoing cleanup for public access*)
 
 * [Fall 2017 - Intermediate Programming course lectures & assignments](https://github.com/SI507-F17)
 
@@ -19,7 +17,7 @@ d----
 
 * [Troubleshooting & Self-Regulation for Student Success draft](https://docs.google.com/document/d/1HJSOtoy-YlhsitDClAxxOCPTOS08rIlUEsEgDwTPTGI/edit?usp=sharing) - Fall 2018
 
-* [UMSI Technical Workshop curriculum report (2017-2018)](tba.net)
+* [UMSI Technical Workshop curriculum report (2017-2018)](tba.net) - TO COME
 
 * [Local Orbit blog posts](https://localorbit.com/blog/author/jackie/)
 
