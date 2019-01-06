@@ -5,7 +5,7 @@
 
 * [Curriculum site for WitNY Summer Guild 2018](https://witny-summer-guild-2018.github.io/)
 
-* [My personal interactive programming textbook site](tba.net) **Undergoing updates for Winter 2019** - built with [Runestone Components](https://github.com/runestoneinteractive/runestonecomponents)
+* [My personal interactive programming textbook site](https://learningpython-today.github.io/pip2/index.html) **Currenty undergoing updates for Winter 2019** - built with [Runestone Components](https://github.com/runestoneinteractive/runestonecomponents)
 
 * [Fall 2018 - Lab Website, Intensive Intro. Programming for Information Students](https://si508-f18.github.io/) - (*some material is still course-restricted and undergoing cleanup for public access*)
 
