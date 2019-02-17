@@ -13,7 +13,7 @@
 
 * [Fall 2017 - Intermediate Programming course lectures & assignments](https://github.com/SI507-F17)
 
-* I am an instructor (curriculum contributor) to the [Python 3 Programming specialization](https://www.coursera.org/specializations/python-3-programming) on Coursera from the University of Michigan School of Information.
+* I am an instructor in / co-creator of the [Python 3 Programming specialization](https://www.coursera.org/specializations/python-3-programming) on Coursera from the University of Michigan School of Information.
 
 * [Runestone Interactive](http://runestoneinteractive.org/) - I've been contributing to (and benefiting from!) this project since 2014.
 
