@@ -23,6 +23,8 @@
 
 * [Local Orbit blog posts](https://localorbit.com/blog/author/jackie/)
 
+* After college, I led the Open.Michigan Initiative Dynamic Metrics project, working on a number of projects for sharing information about OER (open educational resources), making open educational resources available, and supporting medical education world-wide: [OERbit](https://github.com/openmichigan/OERbit) and [OERbit analytics](https://github.com/openmichigan/oerbit_analytics), [metrics toolset](https://github.com/openmichigan/metrics_tools), [course video translation metrics tools](https://github.com/openmichigan/translation_metrics), [Open Casebuilder](https://github.com/openmichigan/open_casebuilder), [PopQuest video annotation tools](https://github.com/openmichigan/PopQuest)
+
 ## Available publications & presentations
 
 * **TO COME** - *Using and Customizing Open-Source Runestone Ebooks for Computer Science Classes* - Workshop presentation with Barbara Ericson and Bradley Miller, SIGCSE 2019 ([previous materials](https://github.com/RunestoneInteractive/Workshop2017))
