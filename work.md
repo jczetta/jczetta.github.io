@@ -27,7 +27,7 @@
 
 ## Available publications & presentations
 
-* **TO COME** - *Using and Customizing Open-Source Runestone Ebooks for Computer Science Classes* - Workshop presentation with Barbara Ericson and Bradley Miller, SIGCSE 2019 ([previous materials](https://github.com/RunestoneInteractive/Workshop2017))
+*  *Using and Customizing Open-Source Runestone Ebooks for Computer Science Classes* - [Workshop presentation](https://runestone.academy/runestone/static/sigcse2019/index.html) with Barbara Ericson and Bradley Miller, SIGCSE 2019 ([previous materials](https://github.com/RunestoneInteractive/Workshop2017))
 
 * *Creating a Roadmap for Successful Student Troubleshooting and Self-Regulation in
 Introductory Programming Courses* - Colleen Van Lent & Jaclyn Zetta Cohen, SIGCSE 2019 Birds of a Feather submission (TBD)
