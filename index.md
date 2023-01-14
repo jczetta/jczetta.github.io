@@ -1,9 +1,9 @@
 ---
 
-I am currently a Lecturer III at the University of Michigan School of Information.
+I am currently an Engineering Manager at the Democratic National Committee.
 
-My work focuses on curriculum architecture and course material development and design -- particularly for computer programming, computer science, data analysis, statistical interpretation, and other types of symbolic systems and storytelling. I also study and work on overall best practices for teaching and learning in high school, higher ed, & continuing education of all kinds, and I build and fix software to help people solve problems.
+I'm an engineer (and teacher always). I love building and managing great teams, and I like to have a role in building tech that makes people's lives easier, better, and/or more fun. I enjoy being part of teams who learn from each other, try new things, and ship.
 
-I love building and managing great teams, and working toward fixing things, and I am happy to connect re: topics of mutual interest (political, sociological, educational, or otherwise).
+I've worked in research labs, startups, and in civic technology, but in my "past life" I was a lecturer and researched computing education. 
 
 You can find more about me and my work at the surrounding links.
