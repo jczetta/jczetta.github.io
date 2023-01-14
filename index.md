@@ -8,6 +8,6 @@ I've worked in research labs, startups, and in civic technology, but in my "past
       
 I used to use Twitter, but not lately; you can find me on Mastodon at <a href="https://vis.social/@jczetta">jczetta@vis.social</a> occasionally. 
 
-My personal GitHub is separate from my work GitHub so it's pretty sparse these days -- when I'm not working, I'm often bookbinding, working with film (photography), biking, or something involving food.
+My personal GitHub is separate from my work GitHub so it's pretty sparse these days -- when I'm not working, I'm often bookbinding, working with film (photography), biking, something involving food, or hanging out with my partner and our cat Dewey.
 
 You can find more about me at the surrounding links, or reach out: jczetta at gmail.
