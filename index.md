@@ -6,7 +6,7 @@ I'm a software engineer (and teacher always). I love building and managing great
       
 I've worked in research labs, startups, and in civic technology, but in my "past life" I was a lecturer and researched computing education; I taught software to adults at various levels for almost 10 years.
       
-I used to use Twitter, but not lately; you can find me on Mastodon at <a href="https://vis.social/@jczetta">jczetta@vis.social</a> occasionally. 
+I used to use Twitter, but not much lately; you can find me on Mastodon at <a href="https://med-mastodon.com/@jczetta">jczetta@med-mastodon.com</a> (40% public health stuff, 60% other) occasionally. 
 
 My personal GitHub is separate from my work GitHub so it's pretty sparse these days -- when I'm not working, I'm often bookbinding, working with film (photography), biking, something involving food, or hanging out with my partner and our cat. 
 
