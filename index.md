@@ -1,8 +1,6 @@
 ---
 
-I am currently the Director of Engineering at the NYC Digital Service, within the <a href="https://www.nyc.gov/content/oti/pages/#our-work" target="_blank" alt="link to Office of Technology and Innovation website">NYC Office of Technology and Innovation</a>.
-
-I’m a software engineer and a teacher. I love building great teams. I like to have a role in building tech that makes people’s lives easier, better, and/or more fun. I enjoy being part of teams who learn from each other, try new things, and ship – both at companies and in the classroom. I live in (and love) New York City.
+I am currently the Director of Engineering at the NYC Digital Service, within the <a href="https://www.nyc.gov/content/oti/pages/#our-work" target="_blank" alt="link to Office of Technology and Innovation website">NYC Office of Technology and Innovation</a>. I’m a software engineer and a teacher. I love building great teams and I like to have a role in building tech that makes people’s lives easier, better, or more fun. I enjoy being part of teams who learn from each other, try new things, and ship – both at companies and in the classroom. I live in (and love) New York City.
 
 I've been:
 
