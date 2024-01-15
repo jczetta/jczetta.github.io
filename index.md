@@ -13,6 +13,6 @@ I've been:
       
 I used to use Twitter, but not much lately. You can find me on Mastodon at <a href="https://med-mastodon.com/@jczetta">jczetta@med-mastodon.com</a> (40% public health stuff, 60% other) occasionally. 
 
-My personal GitHub is separate from my work GitHub so it's pretty sparse these days. when I'm not working, I'm often bookbinding, working with film (photography), biking, something involving food or coffee, or hanging out with my partner and our cat. 
+My personal GitHub is separate from my work GitHub so it's pretty sparse these days. When I'm not working, I'm often bookbinding, working with film (photography), biking, something involving food or coffee, or hanging out with my partner and our cat. 
 
 I don't maintain this website much, but you can find more about me at the above links, or reach out: jczetta at gmail.
