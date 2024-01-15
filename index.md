@@ -9,9 +9,9 @@ I've been:
 * an Engineering Manager at the <a href="https://democrats.org/dnc-tech/" target="_blank" alt="page describing DNC Tech Team" >Democratic National Committee Tech Team</a>, 
 * a faculty member at the <a href="https://www.si.umich.edu/" target="_blank" alt="to University website">University of Michigan School of Information</a>, 
 * the Director of the <a href="https://witny-summer-guild-2018.github.io/" target="_blank" alt="the website describing the 2018 summer guild program I designed">Summer Guild</a> pre-college computing program,
-* an instructor in the University of Michigan <a href="" alt="coursera specialization home page" target="_blank">Python 3 Specialization on Coursera</a>,
+* an instructor in the University of Michigan <a href="https://online.umich.edu/series/python-3-programming/" alt="coursera specialization home page" target="_blank">Python 3 Specialization on Coursera</a>,
 * a software engineer at an e-commerce startup
-* ...
+* [and more](https://www.linkedin.com/in/cohenjaclyn/)
       
 I used to use Twitter, but not much lately. You can find me on Mastodon at <a href="https://med-mastodon.com/@jczetta">jczetta@med-mastodon.com</a> (40% public health stuff, 60% other) occasionally. 
 
