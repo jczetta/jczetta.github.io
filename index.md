@@ -1,10 +1,11 @@
 ---
 
-I am currently the Director of Engineering at the NYC Digital Service, within the <a href="https://www.nyc.gov/content/oti/pages/#our-work" target="_blank" alt="link to Office of Technology and Innovation website">NYC Office of Technology and Innovation</a>. I’m a software engineer and a teacher. I love building great teams and I like to have a role in building tech that makes people’s lives easier, better, or more fun. I enjoy being part of teams who learn from each other, try new things, and ship – both at companies and in the classroom. I live in (and love) New York City.
+I am currently the Director of Engineering at the NYC Digital Service, within the <a href="https://www.nyc.gov/content/oti/pages/#our-work" target="_blank" alt="link to Office of Technology and Innovation website">NYC Office of Technology and Innovation</a>. I’m a software engineer and a teacher. I love being part of  great teams and I like to have a role in building tech that makes people’s lives easier, better, or more fun. I enjoy being part of teams who learn from each other, try new things, and ship – both at companies and in the classroom. I live in (and love) New York City.
 
 I've been:
 
 * an Engineering Manager at the <a href="https://democrats.org/dnc-tech/" target="_blank" alt="page describing DNC Tech Team" >Democratic National Committee Tech Team</a>, 
+* a Senior Software Engineer working on both data engineering/ETL (and ELT) pipelines + full-stack web apps,
 * a faculty member at the <a href="https://www.si.umich.edu/" target="_blank" alt="to University website">University of Michigan School of Information</a>, 
 * the Director of the <a href="https://witny-summer-guild-2018.github.io/" target="_blank" alt="the website describing the 2018 summer guild program I designed">Summer Guild</a> pre-college computing program,
 * an instructor in the University of Michigan <a href="https://online.umich.edu/series/python-3-programming/" alt="coursera specialization home page" target="_blank">Python 3 Specialization on Coursera</a>,
