@@ -4,7 +4,7 @@ I’m a software engineer, a team manager, and a teacher. I love being part of g
 
 I've been:
 
-* the Director of Engineering at the NYC Digital Servie, within the <a href="https://www.nyc.gov/content/oti/pages/#our-work" target="_blank" alt="link to Office of Technology and Innovation website">NYC Office of Technology and Innovation</a>,
+* the Director of Engineering at the NYC Digital Service, within the <a href="https://www.nyc.gov/content/oti/pages/#our-work" target="_blank" alt="link to Office of Technology and Innovation website">NYC Office of Technology and Innovation</a>,
 * an Engineering Manager at the <a href="https://democrats.org/dnc-tech/" target="_blank" alt="page describing DNC Tech Team" >Democratic National Committee Tech Team</a>, 
 * a Senior Software Engineer working on both data engineering/ETL (and ELT) pipelines + full-stack web apps,
 * a faculty member at the <a href="https://www.si.umich.edu/" target="_blank" alt="to University website">University of Michigan School of Information</a>, 
