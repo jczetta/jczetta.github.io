@@ -1,6 +1,6 @@
 ---
 
-I’m a software engineer, a team manager, and a teacher. I love being part of great teams and I like to have a role in building tech that makes people’s lives easier, better, or more fun. I especially enjoy being part of teams who learn from each other, try new things, and ship – both at companies/orgs and in the classroom. I live in (and love) New York City.
+I’m a software engineer, a team manager, and a teacher. I love being part of great teams and I like to have a role in building tech that makes people’s lives easier or better by some definition. I especially enjoy being part of teams who learn from each other, try new things, and ship – both at companies/orgs and in the classroom. I live in (and love) New York City.
 
 I've been:
 
@@ -16,6 +16,8 @@ I've been:
       
 I used to use Twitter, but not anymore. You can find me on Mastodon at <a href="https://med-mastodon.com/@jczetta">jczetta@med-mastodon.com</a> (40% public health stuff, 60% other) occasionally. 
 
-My personal GitHub is separate from my work GitHub so it's pretty sparse these days. When I'm not working, I'm often bookbinding, working with film (photography), biking, something involving food or coffee, or hanging out with my partner and our cat. 
+My personal GitHub is separate from my work GitHub so it's pretty sparse these days. When I'm not working, I'm often bookbinding, working with film (photography) or patterns, biking, something involving food or coffee, or hanging out with my partner and our cat. 
+
+When I am working, I'm interested in infrastructure, which I personally think has a much wider definition than usually shows up on LinkedIn -- platforms, data structure, governance, thoughtful optimization, modularity... and a lot more.
 
 I don't maintain this website much, but you can find more about me at the above links, or reach out: jczetta at gmail.
